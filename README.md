@@ -1,2 +1,2 @@
 # REACT-PROJECT
- react video gallery
+ react projects
