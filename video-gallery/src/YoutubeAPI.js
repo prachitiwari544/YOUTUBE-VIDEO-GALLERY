@@ -2,7 +2,7 @@
 import axios from 'axios';
 import { getCache, setCache } from './cache';
 
-const API_KEY = 'AIzaSyC6S-3huagJi_ruv9YXIxvLnPhMrgpA3ek';
+const API_KEY = 'your_api_key';
 const BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
 
